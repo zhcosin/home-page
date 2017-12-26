@@ -55,7 +55,6 @@ E-mail: zhcosin@163.com
   - [[http://kuing.orzweb.net/viewthread.php?tid%3D3757&extra%3Dpage%253D1][悠闲数学娱乐论坛]]
   - [[https://en.wikipedia.org/wiki/Main_Page][英文维基百科]]  数学知识百科全书
 
-** 数学类软件
    
    1. LaTeX 
       
@@ -90,6 +89,8 @@ E-mail: zhcosin@163.com
    - [[https://www.debian.org/doc/manuals/debian-reference/index.zh-cn.html][debian 参考手册]]
    - [[https://www.debiancn.org/][debian 中文社区]]
    - [[http://www.ctex.org/documents/shredder/linux.html][完全用 GNU/Linux 工作]]
+     
+     [[file:image/debian/debian-xfce-desktop-screen.png]]
      
 ** vim 与 Emacs
 
