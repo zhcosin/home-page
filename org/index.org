@@ -1,96 +1,42 @@
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="./css/readtheorg.css" />
 #+TITLE: free-math: zhcosin's Home
 #+AUTHOR: zhcosin
-#+OPTIONS:   ^:{} 
+#+OPTIONS:   ^:{} \n:t 
 #+LANGUAGE: zh-CN
 
-  这里是我(zhcosin)的个人主页，欢迎光临。
+
+  欢迎光临 zhcosin 的个人主页，一句话概括我: 数学爱好者，程序员，喜欢古典文学/历史，以及一个普通的爸爸。
 
   我的 =GitHub= 主页: [[https://github.com/zhcosin]]
-
   我的 =coding.net= 主页: [[https://coding.net/u/zhcosin/project]]
-
-E-mail: zhcosin@163.com
+  如果有问题需要联系我，可以发 E-mail: zhcosin@163.com
+  
 
 * 数学
+     
+     数学始终是我的第一兴趣，目前致力于学习高等数学，并且预计将持续几年时间。
+     
+** 初等数学
+     
+     在初等数学领域，我写了一份笔记，就叫 [[https://coding.net/u/zhcosin/p/math-notes-publish/git/blob/master/elementary-math-note.pdf][《初等数学笔记》]] ，用 LaTeX 排版的，目前大致成形，但还有许多需要补充的内容和需要完善的地方。暂时只提供 =PDF= 下载，以后可能会提供 =HTML= 在线阅读。
+     
+** 高等数学
+     
+     我更大的兴趣在于高等数学，这主要有分析和代数两个方向，分析方向的主要内容是微积分、实变与泛函、微分方程，代数方向主要是高等代数和抽象代数，这些课程已经足够我花费几年的时间来学习了，我正在制作一份 [[file:math/books-list.org][数学书目清单]] (不限于高等数学)，列出了主要的参考书以及简短介绍。 
+     
+** 数学资源
+     
+     这里罗列了一些有用的数学资料网址，包括论坛、电子书等资源。
 
-** 读书
-   这里是我比较喜欢的一些数学书籍的列表。
-   
-  1. 初等数学
-     - 《不等式的秘密》 [越南]范建熊，隋振林(译). 哈尔滨工业大学出版社.
-     - 《几何瑰宝》 沈文选，杨清桃. 哈尔滨工业大学出版社.
-     - 《圆锥曲线论》 [古希腊]阿波罗尼奥斯. 陕西科学技术出版社.
-     - [[http://kuing.orzweb.net/viewthread.php?tid%3D3757&extra%3Dpage%253D1][《kuing 网络撸题集》]] kuing. 网络电子书
-       
-  2. 代数
-     - 《高等代数》 北京大学几何与代数教研室前代数小组. 高等教育出版社.
-     - 《代数学引论》 [前苏联]柯斯特利金. 高等教育出版社.
-     - 《代数学引论》 聂灵沼,丁石孙. 高等教育出版社.
-     - 《从一元一次方程到伽罗瓦理论》 冯承天. 华东师范大学出版社.
-       
-  3. 数论.
-     - 《初等数论》 闵嗣鹤,严士健. 高等教育出版社.
-     - 《数论导引》 华罗庚. 高等教育出版社.
-     - 《初等数论》 潘承洞,潘承彪. 高等教育出版社.
-       
-  4. 微积分
-     - 《微积分学教程》 [前苏联]菲赫金哥尔茨. 高等教育出版社.
-     - 《高等数学引论》 华罗庚. 高等教育出版社.
-     - 《微积分与数学分析引论》 [美]F.约翰, R.柯朗. 科学出版社.
-     - 《数学分析习题集》 [前苏联]吉米诺维奇. 高等教育出版社.
+* 计算机工具与软件
   
-** 笔记
+** debian 操作系统
    
- 1. 《初等数学笔记》 [[https://coding.net/u/zhcosin/p/math-notes-publish/git/blob/master/elementary-math-note.pdf][PDF 下载]]
-
-     这是我在初等数学范围内的一份笔记，开工于2016年4月并维护至今，内容涉及数论、代数、欧氏几何、解析几何、组合数学等，这份笔记的写作动机在于不断完善自己的知识体系，持续提升数学水平。我希望经过数年的添砖加瓦，它能够成为初等数学范围内的一份内容全面丰富、材料广泛的笔记，可以供别人参考。
-
- 2. 《微积分学笔记》 [[https://coding.net/u/zhcosin/p/math-notes-publish/git/blob/master/calculus-note.pdf][PDF 下载]]
-
-     分析学是我非常感兴趣的一门数学分支，而作为其基础课程的微积分，是我一直梦想能深入掌握的一门课，而这份笔记便是记录这个学习过程，目前还在起步阶段，尚未有多少内容。
-    
-** 一些有用的链接
-  
-  - [[http://kuing.orzweb.net/viewthread.php?tid%3D3757&extra%3Dpage%253D1][悠闲数学娱乐论坛]]
-  - [[https://en.wikipedia.org/wiki/Main_Page][英文维基百科]]  数学知识百科全书
-
-   
-   1. LaTeX 
-      
-      =LaTeX= 是一个专业的科技论文、图书排版系统，其排版的数学公式尤其精美，是当今科技排版的标准，我的数学笔记都是用它排版的。下面是一些相关的链接:
-      - [[https://www.latex-project.org/][LaTeX 官网]]
-      - [[http://mirrors.ustc.edu.cn/CTAN/info/lshort/chinese/lshort-zh-cn.pdf][一份不太简短的 LaTeX2e介绍]]
-      - [[http://www.ctex.org/documents/shredder/tex_frame.html][TeX - 漂亮而且有趣]]
-      - [[http://www.latexstudio.net/][LaTeX 工作室]]
-   
-   2. TeXmacs
-    
-      一个所见即所得的排版系统，可视化的操作方式，却能得到与 =LaTeX= 类似的效果，但软件目前不太成熟，我用它来打草稿和写作讨论稿。
-      - [[http://www.texmacs.org/tmweb/home/welcome.en.html][TeXmacs 官网]]
-      - [[http://www.yinwang.org/blog-cn/2012/09/18/texmacs][一个真正所见即所得的排版系统]]
-      - [[http://x-wei.github.io/TeXmacs_intro.html][学术文章写作利器 - TeXmacs 介绍]]
-      - [[https://github.com/zhcosin/introduction-docs/blob/master/introduction-texmacs/introduction-texmacs.org][使用 TeXmacs 写作数学文档]]
-
-   3. Maxima
-
-      一个计算机代数系统，类似于 =Mathematica=.
-      
-   4. 关于数学文档的写作
-
-      - [[https://github.com/zhcosin/introduction-docs/blob/master/introduction-to-mathdoc-writer/introduction-to-mathdoc-writer.org][数学文档写作工具介绍]]
-
-* 计算机
-   
-** debian 系统 
-
    一个自由的 =linux= 操作系统的发行版，旨在“自由软件”，具备出色的稳定性，是个常年不需要重启的服务器操作系统。我正致力于打造基于 =debian= 的稳定工作环境，下面是一些相关链接:
    - [[https://www.debian.org/][debian 官网]]
    - [[https://www.debian.org/doc/manuals/debian-reference/index.zh-cn.html][debian 参考手册]]
    - [[https://www.debiancn.org/][debian 中文社区]]
    - [[http://www.ctex.org/documents/shredder/linux.html][完全用 GNU/Linux 工作]]
-     
-     [[file:image/debian/debian-xfce-desktop-screen.png]]
      
 ** vim 与 Emacs
 
@@ -111,6 +57,27 @@ E-mail: zhcosin@163.com
    - [[http://iissnan.com/progit/][Pro Git 简体中文版]]
    - [[https://github.com/][GitHub]]
    - [[https://coding.net/][Coding.net 代码托管网站]]
+     
+   
+** LaTeX 
+      
+      =LaTeX= 是一个专业的科技论文、图书排版系统，其排版的数学公式尤其精美，是当今科技排版的标准，我的数学笔记都是用它排版的。下面是一些相关的链接:
+      - [[https://www.latex-project.org/][LaTeX 官网]]
+      - [[http://mirrors.ustc.edu.cn/CTAN/info/lshort/chinese/lshort-zh-cn.pdf][一份不太简短的 LaTeX2e介绍]]
+      - [[http://www.ctex.org/documents/shredder/tex_frame.html][TeX - 漂亮而且有趣]]
+      - [[http://www.latexstudio.net/][LaTeX 工作室]]
+   
+** TeXmacs
+    
+      一个所见即所得的排版系统，可视化的操作方式，却能得到与 =LaTeX= 类似的效果，但软件目前不太成熟，我用它来打草稿和写作讨论稿。
+      - [[http://www.texmacs.org/tmweb/home/welcome.en.html][TeXmacs 官网]]
+      - [[http://www.yinwang.org/blog-cn/2012/09/18/texmacs][一个真正所见即所得的排版系统]]
+      - [[http://x-wei.github.io/TeXmacs_intro.html][学术文章写作利器 - TeXmacs 介绍]]
+      - [[https://github.com/zhcosin/introduction-docs/blob/master/introduction-texmacs/introduction-texmacs.org][使用 TeXmacs 写作数学文档]]
+
+** Maxima
+
+      一个计算机代数系统，类似于 =Mathematica=.
      
 ** rime 输入法框架
 
