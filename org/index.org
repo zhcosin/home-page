@@ -18,7 +18,7 @@
      
 ** 初等数学
      
-     在初等数学领域，我写了一份笔记，就叫 [[https://coding.net/u/zhcosin/p/math-notes-publish/git/blob/master/elementary-math-note.pdf][《初等数学笔记》]] ，用 LaTeX 排版的，目前大致成形，但还有许多需要补充的内容和需要完善的地方。暂时只提供 =PDF= 下载，以后可能会提供 =HTML= 在线阅读。
+     在初等数学领域，我写了一份笔记，即 [[https://coding.net/u/zhcosin/p/math-notes-publish/git/blob/master/elementary-math-note.pdf][《初等数学笔记》]] ，用 LaTeX 排版的，内容包括初等数论、函数与方程、不等式、欧氏几何、解析几何、组合等内容，目前大致成形，但还有许多需要补充的内容和需要完善的地方，预计全部完成后篇幅应接近300页。暂时只提供 =PDF= 下载，以后可能会提供 =HTML= 在线阅读。
      
 ** 高等数学
      
