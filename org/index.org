@@ -20,25 +20,25 @@
      
 ** 初等数学
      
-     1.在初等数学领域，我写了一份笔记，即 [[https://coding.net/u/zhcosin/p/math-notes-publish/git/blob/master/elementary-math-note.pdf][《初等数学笔记》]] ，用 =LaTeX= 排版的，内容包括初等数论、函数与方程、不等式、欧氏几何、解析几何、组合等内容，目前大致成形，但还有许多需要补充的内容和需要完善的地方，预计全部完成后篇幅应接近300页。暂时只提供 =PDF= 下载，以后可能会提供 =HTML= 在线阅读。
+在初等数学领域，我写了一份笔记，即 [[https://coding.net/u/zhcosin/p/math-notes-publish/git/blob/master/elementary-math-note.pdf][《初等数学笔记》]] ，用 =LaTeX= 排版的，内容包括初等数论、函数与方程、不等式、欧氏几何、解析几何、组合等内容，目前大致成形，但还有许多需要补充的内容和需要完善的地方，预计全部完成后篇幅应接近300页。暂时只提供 =PDF= 下载，以后可能会提供 =HTML= 在线阅读。
      
-2. 平时喜欢网络上与网友们讨论数学问题，经常去的地方有网友 kuing 的 [[http://kuing.orzweb.net][悠闲数学娱乐论坛(第2版)]]，和 [[http://www.math.org.cn/][博士数学家园]]. 我把平时的解题按时间顺序做了一个流水线记录: [[https://coding.net/u/zhcosin/p/math-notes-publish/git/blob/master/zhcosin-math-qa.pdf][《个人网络解题流水线》]]. 这个解题记录是用 =TeXmacs= 制作的. 我的想法很简单，就是让它随着时间进行积累.
+平时喜欢网络上与网友们讨论数学问题，经常去的地方有网友 kuing 的 [[http://kuing.orzweb.net][悠闲数学娱乐论坛(第2版)]]，和 [[http://www.math.org.cn/][博士数学家园]]. 我把平时的解题按时间顺序做了一个流水线记录: [[https://coding.net/u/zhcosin/p/math-notes-publish/git/blob/master/zhcosin-math-qa.pdf][《个人网络解题流水线》]]. 这个解题记录是用 =TeXmacs= 制作的. 我的想法很简单，就是让它随着时间进行积累.
    
-3. 出于对于中学数学的应试教育的不认同，正在编写一份 [[https://coding.net/u/zhcosin/p/math-notes-publish/git/blob/master/high-school-math-exercise.pdf][《高中数学习题集》]] ，这份习题集不以考试为目的，旨在于引导学生学习更多的知识，见识更多的数学内容，以及掌握更多的数学思想，以期让学生对数学产生兴趣并提高数学素养.
+出于对于中学数学的应试教育的不认同，正在编写一份 [[https://coding.net/u/zhcosin/p/math-notes-publish/git/blob/master/high-school-math-exercise.pdf][《高中数学习题集》]] ，这份习题集不以考试为目的，旨在于引导学生学习更多的知识，见识更多的数学内容，以及掌握更多的数学思想，以期让学生对数学产生兴趣并提高数学素养.
   
      
 ** 高等数学
      
-     我更大的兴趣在于高等数学，这主要有分析和代数两个方向，分析方向的主要内容是微积分、实变与泛函、复分析、微分方程，代数方向主要是高等代数和抽象代数，这些课程已经足够我花费几年的时间来学习了。
+我更大的兴趣在于高等数学，这主要有分析和代数两个方向，分析方向的主要内容是微积分、实变与泛函、复分析、微分方程，代数方向主要是高等代数和抽象代数，这些课程已经足够我花费几年的时间来学习了。
 
 我正在制作一份 [[file:math/books-list.org][数学书目清单]] (不限于高等数学)，列出了主要的参考书以及简短介绍。
 
-1. 微积分与数学分析，目前正在学习微积分，虽然以前在学校学过，但除了会算几个面积之外就什么也不会了，所以准备系统性的重新学习. 主要参考书是菲赫金哥尔茨的《微积分学教程》和张筑生的《数学分析新讲》以及华罗庚的《高等数学引论》，并写作学习笔记 [[https://coding.net/u/zhcosin/p/math-notes-publish/git/blob/master/calculus-note.pdf][《微积分学笔记》]].
+微积分与数学分析，目前正在学习微积分，虽然以前在学校学过，但除了会算几个面积之外就什么也不会了，所以准备系统性的重新学习. 主要参考书是菲赫金哥尔茨的《微积分学教程》和张筑生的《数学分析新讲》以及华罗庚的《高等数学引论》，并写作学习笔记 [[https://coding.net/u/zhcosin/p/math-notes-publish/git/blob/master/calculus-note.pdf][《微积分学笔记》]].
 
-2. 代数，线性代数以北京大学几何与代数教研室的《高等代数》为参考书，抽象代数以聂灵沼、丁石孙的《代数学引论》为参考书，并写作学习笔记  [[https://coding.net/u/zhcosin/p/math-notes-publish/git/blob/master/algebra-note.pdf][《代数学笔记》]].
+代数，线性代数以北京大学几何与代数教研室的《高等代数》为参考书，抽象代数以聂灵沼、丁石孙的《代数学引论》为参考书，并写作学习笔记  [[https://coding.net/u/zhcosin/p/math-notes-publish/git/blob/master/algebra-note.pdf][《代数学笔记》]].
    
-3. 后续还准备学习的课程：实变函数、泛函分析、复变函数、微分方程等，到时候学到那里来了再补充.
-     
+后续还准备学习的课程：实变函数、泛函分析、复变函数、微分方程等，到时候学到那里来了再补充.
+    
 ** 数学资源
      
      这里罗列了一些有用的数学资料网址，包括论坛、电子书等资源。
