@@ -1,5 +1,3 @@
-###+HTML_HEAD: <link rel="stylesheet" type="text/css" href="../css/readtheorg.css" />
-#+HTML_SCRIPT: <script type="text/javascript"<src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML"></script>
 #+TITLE: 手动档驾驶技术
 #+AUTHOR: zhcosin
 #+DATE: 2019-05-16
@@ -57,7 +55,7 @@
 \[ v = \frac{60}{1000} \times 3.14 \times 0.63 \times \frac{3000}{1\times 1.869 \times 4.294} \approx 44.4 \]
 km/h，实际结果是这时转速表在45km/h，吻合。
 
-再来计算一下时速100km/h在五档下的转速，实际驾驶结果是 2800r/min 左右，这里根据公式计算一下, \(v=100\),\(r_1=1\),\(r_2=0.727\),\(r_3=4.294\),\(d=0.63\):
+再来计算一下时速100km/h在五档下的转速，实际驾驶结果是 2700r/min 左右，这里根据公式计算一下, \(v=100\),\(r_1=1\),\(r_2=0.727\),\(r_3=4.294\),\(d=0.63\):
 \[ n = \frac{1000}{60} \times \frac{1\times 0.727 \times 4.294}{3.14 \times 0.63} \approx 2630 \]
 考虑到参数误差，这个值也基本吻合.
 
