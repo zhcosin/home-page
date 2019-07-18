@@ -1,3 +1,4 @@
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="../css/readtheorg.css" />
 #+TITLE: 手动档驾驶技术基础
 #+AUTHOR: zhcosin
 #+DATE: 2019-05-16
