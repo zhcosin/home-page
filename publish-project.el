@@ -19,3 +19,9 @@
          ("home-page"
           :components ("org-files" "resource-files"))))
   
+
+(cd "f:/home-page/")
+;; 发布工程
+;;(org-publish-project "home-page") 
+;; 重新发布整个工程
+(org-publish-project "home-page" t nil) 
