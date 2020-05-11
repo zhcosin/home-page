@@ -5,6 +5,15 @@
 #+OPTIONS:   ^:{} \n:t 
 #+LANGUAGE: zh-CN
 
+* 引言
+
+文章信息:
+
+ - 网页版 [[https://zhcosin.github.io/car/manaual-car-driving.html][手动档驾驶技术基础]] 
+ - pdf 文件 [[https://github.com/zhcosin/introduction-docs/blob/master/manaual-car-driving/manaual-car-driving.pdf][点此进入下载页面]]
+   
+除此以外，在其它平台(如知乎，QQ群等)的发布将不一定进行维护.
+
 手动档开了一年，根据自己的知识和经验，对手动档驾驶所需要用到的一些技术作一些总结，这些技术有些是我会的，有些是我不会只知道是怎么回事的，例如无离合换档和跟趾，都按照我的理解记录下来，以后随着自己经验的积累，再进行修改。
 
  本文以我的车八代思域五速手动作为参考车型，对前置前驱的自然吸气手动档车型也一般性适用.
@@ -388,3 +397,13 @@ r/min，同样的，在时速40km/h的时候发动机转速一定是接近2700�
 手动档驾驶经验不足一年慎学此项技术，经常练习者除外。
 
 另外就是现在的家用手动档车的油门踏板会比刹车踏板低一截，不在一个水平面，导致右脚踩住刹车时需要把脚向外翻才能用脚跟踩到油门，所以如果想要练习跟趾，得先把油门踏板改一下。
+
+* 后记
+
+如果您觉得本文对您小有帮助，不妨小小的捐助一下，:-)
+
+#+ATTR_LATEX: :width 0.4\linewidth
+[[./resource/weixin-cash-code.png]]
+
+#+ATTR_LATEX: :width 0.4\linewidth
+[[./resource/ali-cash-code.jpg]]
