@@ -5,7 +5,7 @@
 #+LANGUAGE: zh-CN
 
 
-  欢迎光临 zhcosin 的个人主页，一句话概括我: 数学爱好者，程序员，喜欢古典文学/历史，以及一个普通的爸爸。
+  欢迎光临 zhcosin 的个人主页，一句话概括我: 数学爱好者，程序员，喜欢古文和历史，以及一个普通的爸爸。
 
   我的 =GitHub= 主页: [[https://github.com/zhcosin]]
   我的 =coding.net= 主页: [[https://coding.net/u/zhcosin/project]]
@@ -33,9 +33,9 @@
 
 我正在制作一份 [[file:math/books-list.org][数学书目清单]] (不限于高等数学)，列出了主要的参考书以及简短介绍。
 
-微积分与数学分析，目前正在学习微积分，虽然以前在学校学过，但除了会算几个面积之外就什么也不会了，所以准备系统性的重新学习. 主要参考书是菲赫金哥尔茨的《微积分学教程》和张筑生的《数学分析新讲》以及华罗庚的《高等数学引论》，并写作学习笔记 [[https://coding.net/u/zhcosin/p/math-notes-publish/git/blob/master/calculus-note.pdf][《微积分学笔记》]].
+微积分与数学分析，目前正在学习微积分，虽然以前在学校学过，但除了会算几个面积之外就什么也不会了，所以准备系统性的重新学习. 主要参考书是菲赫金哥尔茨的《微积分学教程》和张筑生的《数学分析新讲》以及华罗庚的《高等数学引论》，并写作学习笔记 [[https://coding.net/u/zhcosin/p/math-notes-publish/git/blob/master/calculus-note.pdf][《微积分学笔记》]],目前写到定积分.
 
-代数，线性代数以北京大学几何与代数教研室的《高等代数》为参考书，抽象代数以聂灵沼、丁石孙的《代数学引论》为参考书，并写作学习笔记  [[https://coding.net/u/zhcosin/p/math-notes-publish/git/blob/master/algebra-note.pdf][《代数学笔记》]].
+代数，线性代数以北京大学几何与代数教研室的《高等代数》为参考书，抽象代数以聂灵沼、丁石孙的《代数学引论》为参考书，并写作学习笔记  [[https://coding.net/u/zhcosin/p/math-notes-publish/git/blob/master/algebra-note.pdf][《代数学笔记》]],进度较慢.
    
 后续还准备学习的课程：实变函数、泛函分析、复变函数、微分方程等，到时候学到那里来了再补充.
     
@@ -77,7 +77,6 @@
    - [[https://github.com/][GitHub]]
    - [[https://coding.net/][Coding.net 代码托管网站]]
      
-   
 ** LaTeX 
       
       =LaTeX= 是一个专业的科技论文、图书排版系统，其排版的数学公式尤其精美，是当今科技排版的标准，我的数学笔记都是用它排版的。下面是一些相关的链接:
@@ -88,7 +87,7 @@
    
 ** TeXmacs
     
-      一个所见即所得的排版系统，可视化的操作方式，却能得到与 =LaTeX= 类似的效果，但软件目前不太成熟，我用它来打草稿和写作讨论稿。
+      一个所见即所得的排版系统，可视化的操作方式，却能得到与 =LaTeX= 类似的效果。
       - [[http://www.texmacs.org/tmweb/home/welcome.en.html][TeXmacs 官网]]
       - [[http://www.yinwang.org/blog-cn/2012/09/18/texmacs][一个真正所见即所得的排版系统]]
       - [[http://x-wei.github.io/TeXmacs_intro.html][学术文章写作利器 - TeXmacs 介绍]]
@@ -104,8 +103,12 @@
 
     - [[http://rime.im/][RIME 中州韵输入引擎]]
 
-* 历史/古典文学
+* 历史/古文
   我喜欢历史和古典文学，以下是一些计划要读的书单。
+   - 左传(极其精彩，阅读中，目前读到鲁庄公时期，齐桓公即将登场)
+   - 国语
+   - 战国策
+   - 古文观止
    - 史记
    - 三国志
    - 资治通鉴
