@@ -37,9 +37,9 @@
 
 复分析，参考书《复分析.可视化方法》. 学习笔记《复分析笔记》 pdf 版本暂未发布线上.
 
-线性代数，以《Linear Algebra Done Right》 和北京大学几何与代数教研室的《高等代数》为参考书. 学习笔记《线性代数笔记》暂未发布 pdf 版本.
+线性代数，以 Sheldon Axler 的《Linear Algebra Done Right》 和北京大学几何与代数教研室的《高等代数》为参考书. 学习笔记《线性代数笔记》暂未发布 pdf 版本.
 
-抽象代数以聂灵沼、丁石孙的《代数学引论》为参考书，并写作学习笔记  [[https://coding.net/u/zhcosin/p/math-notes-publish/git/blob/master/algebra-note.pdf][《抽象代数笔记》]].
+抽象代数以 Joseph A. Gallian 的《Contemporary Abstract Algebra》为参考书，并写作学习笔记  [[https://coding.net/u/zhcosin/p/math-notes-publish/git/blob/master/algebra-note.pdf][《抽象代数笔记》]].
 
    
 后续还准备学习的课程：实变函数、泛函分析、复变函数、微分方程等，到时候学到那里来了再补充.
