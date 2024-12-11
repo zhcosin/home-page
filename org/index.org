@@ -42,7 +42,7 @@
 抽象代数以 Joseph A. Gallian 的《Contemporary Abstract Algebra》为参考书，并写作学习笔记  [[https://coding.net/u/zhcosin/p/math-notes-publish/git/blob/master/algebra-note.pdf][《抽象代数笔记》]].
 
    
-后续还准备学习的课程：实变函数、泛函分析、复变函数、微分方程等，到时候学到那里来了再补充.
+后续还准备学习的课程：实变函数、泛函分析、微分方程等，到时候学到那里来了再补充.
     
 ** 数学资源
      
