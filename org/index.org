@@ -15,7 +15,7 @@
 * 数学
      
      数学始终是我的第一兴趣，目前致力于学习高等数学，并且预计将持续几年时间。
-     我所有的数学笔记都用 =LaTeX= 或者 =TeXmacs= 完成，并且发布在 [[https://coding.net/u/zhcosin/p/math-notes-publish][coding.net]] 上，以下所列所有的文档工程，都可以在这个页面上找到最新发布版.
+     我所有的数学笔记都用 =LaTeX= 、 =Typst= 以及 =TeXmacs= 完成，并且发布在 [[https://coding.net/u/zhcosin/p/math-notes-publish][coding.net]] 上，以下所列所有的文档工程，都可以在这个页面上找到最新发布版.
      关于 =LaTeX= 与 =TeXmacs= 在本文后续部分会提到.
      
 ** 初等数学
@@ -33,13 +33,17 @@
 
 我正在制作一份 [[file:math/books-list.org][数学书目清单]] (不限于高等数学)，列出了主要的参考书以及简短介绍。
 
-微积分与数学分析，目前正在学习微积分，虽然以前在学校学过，但除了会算几个面积之外就什么也不会了，所以准备系统性的重新学习. 主要参考书是菲赫金哥尔茨的《微积分学教程》和张筑生的《数学分析新讲》以及华罗庚的《高等数学引论》，并写作学习笔记 [[https://coding.net/u/zhcosin/p/math-notes-publish/git/blob/master/calculus-note.pdf][《微积分学笔记》]],目前写到定积分.
+*** 微积分与数学分析
+主要参考书是菲赫金哥尔茨的《微积分学教程》和张筑生的《数学分析新讲》以及华罗庚的《高等数学引论》，并写作学习笔记 [[https://gitee.com/zhcosin/math-notes-publish/blob/master/calculus-note.pdf][《微积分学笔记》]] ， =LaTeX= 排版,目前写到定积分.
 
-复分析，参考书《复分析.可视化方法》. 学习笔记《复分析笔记》 pdf 版本暂未发布线上.
+*** 复分析
+复分析，参考书《复分析.可视化方法》. 学习笔记[[https://gitee.com/zhcosin/math-notes-publish/blob/master/comple-analysis.pdf][《复分析笔记》]]，用  =Typst= 排版.
 
-线性代数，以 Sheldon Axler 的《Linear Algebra Done Right》 和北京大学几何与代数教研室的《高等代数》为参考书. 学习笔记《线性代数笔记》暂未发布 pdf 版本.
+*** 线性代数
+线性代数，以 Sheldon Axler 的《Linear Algebra Done Right》 和北京大学几何与代数教研室的《高等代数》为参考书. 学习笔记[[https://gitee.com/zhcosin/math-notes-publish/blob/master/line-algebra-note.pdf][《线性代数笔记》]], 用  =TeXmacs= 排版.
 
-抽象代数以 Joseph A. Gallian 的《Contemporary Abstract Algebra》为参考书，并写作学习笔记  [[https://coding.net/u/zhcosin/p/math-notes-publish/git/blob/master/algebra-note.pdf][《抽象代数笔记》]].
+*** 抽象代数
+抽象代数以 Joseph A. Gallian 的《Contemporary Abstract Algebra》为参考书，并写作学习笔记  [[https://coding.net/u/zhcosin/p/math-notes-publish/git/blob/master/algebra-note.pdf][《抽象代数笔记》]], 用 =TeXmacs= 排版.
 
    
 后续还准备学习的课程：实变函数、泛函分析、微分方程等，到时候学到那里来了再补充.
